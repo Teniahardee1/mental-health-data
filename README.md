@@ -11,3 +11,10 @@ https://github.com/Teniahardee1/mental-health-data/blob/main/refineddata.csv
 
 Next are the Colab instructions to create a data subset and the README.md file link. 
 These files will allow you to explore the contents of the repository. 
+
+## Reproducibilty
+
+## Maintance
+
+## Acknowledgements
+This repository was produced as a final project for my ENG 105-006 class at the University of Chapel Hill, taught by Professor Steven Gotzler.
