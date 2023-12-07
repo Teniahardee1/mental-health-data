@@ -6,6 +6,7 @@ The purpose of this repository is to provide information on mental healthcare st
 There are two .csv files located above. One being the original data set labeled as CountyHealthData_2014-2015.csv and the other being the refined set labeled as refindeddata.csv.
 
 https://github.com/Teniahardee1/mental-health-data/blob/main/CountyHealthData_2014-2015.csv
+
 https://github.com/Teniahardee1/mental-health-data/blob/main/refineddata.csv
 
 Next are the Colab instructions to create a data subset and the README.md file link. 
