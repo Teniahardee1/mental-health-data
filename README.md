@@ -15,6 +15,6 @@ These files will allow you to explore the contents of the repository.
 ## Reproducibilty
 For more information on how to recreate this data set refer to the colab instructions or to create your own subset of data refer to the original data set located above.
 ## Maintance
-This repository was created and will be maintained by Tenia Hardee. 
+This repository is open to the public, allowing users to access and make edits. However, it's important to note that any modifications or contributions must undergo approval from the creator, Tenia Hardee, before they are incorporated into the repository.
 ## Acknowledgements
 This repository was produced as a final project for my ENG 105-006 class at the University of Chapel Hill, taught by Professor Steven Gotzler.
